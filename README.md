@@ -9,7 +9,7 @@
 
 # KLY-EVM implementation
 
-This is the separate repository for KLY-EVM - mutable, CIIP-X improved, post-quantum, liked-by-Gigachad VM
+This is the separate repository for KLY-EVM - mutable, CIIP-X improved, post-quantum, with some extra features, cross-VM calls and tons of offchain logic, crosschain abilities, GOD-contracts and definitely liked-by-Gigachad VM
 
 # How can use it?
 
