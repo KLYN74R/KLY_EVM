@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="./images/KLY.jpg">
-
-<img src="./images/EVM.png">
+<img src="./images/KLY-EVM_Preview.gif">
 
 </div>
 
+<br/>
 
 # KLY-EVM implementation
 
@@ -21,4 +20,3 @@ Sure! We also have a JSON-RPC2.0 implementation <a href="https://github.com/KLYN
 
 
 # See also
-
