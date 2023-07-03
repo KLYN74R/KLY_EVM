@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/KLY-EVM_Preview.gif">
+<img src="./images/KLY-EVM.png">
 
 </div>
 
